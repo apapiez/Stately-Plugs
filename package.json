@@ -1,0 +1,12 @@
+{
+    "name" : "com.apapiez.statelyplugs",
+    "version" : "1.0.0",
+    "display name" : "Stately Plugs",
+    "description" : "A plug-in for simple scriptable object based finite state machines.",
+    "unity": "2021.2",
+    "author" : {
+        "name" : "Apapiez",
+        "email" : "",
+        "url" : ""        
+    }
+}
